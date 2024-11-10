@@ -1,0 +1,41 @@
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\ConsoleBarcode\obj\Debug\net8.0\ConsoleBarcode.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\ConsoleBarcode\obj\Debug\net8.0\ConsoleBarcode.AssemblyInfoInputs.cache
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\ConsoleBarcode\obj\Debug\net8.0\ConsoleBarcode.AssemblyInfo.cs
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\ConsoleBarcode\obj\Debug\net8.0\ConsoleBarcode.csproj.CoreCompileInputs.cache
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\ConsoleBarcode\bin\Debug\net8.0\ConsoleBarcode.exe
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\ConsoleBarcode\bin\Debug\net8.0\ConsoleBarcode.deps.json
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\ConsoleBarcode\bin\Debug\net8.0\ConsoleBarcode.runtimeconfig.json
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\ConsoleBarcode\bin\Debug\net8.0\ConsoleBarcode.dll
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\ConsoleBarcode\bin\Debug\net8.0\ConsoleBarcode.pdb
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\ConsoleBarcode\bin\Debug\net8.0\BarcodeLib.dll
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\ConsoleBarcode\bin\Debug\net8.0\BarcodeLib.pdb
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\ConsoleBarcode\obj\Debug\net8.0\ConsoleBarcode.csproj.AssemblyReference.cache
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\ConsoleBarcode\obj\Debug\net8.0\ConsoleBarcode.csproj.CopyComplete
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\ConsoleBarcode\obj\Debug\net8.0\ConsoleBarcode.dll
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\ConsoleBarcode\obj\Debug\net8.0\refint\ConsoleBarcode.dll
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\ConsoleBarcode\obj\Debug\net8.0\ConsoleBarcode.pdb
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\ConsoleBarcode\obj\Debug\net8.0\ConsoleBarcode.genruntimeconfig.cache
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\ConsoleBarcode\obj\Debug\net8.0\ref\ConsoleBarcode.dll
+D:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\ConsoleBarcode\obj\Debug\net8.0\ConsoleBarcode.csproj.AssemblyReference.cache
+D:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\ConsoleBarcode\obj\Debug\net8.0\ConsoleBarcode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\ConsoleBarcode\obj\Debug\net8.0\ConsoleBarcode.AssemblyInfoInputs.cache
+D:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\ConsoleBarcode\obj\Debug\net8.0\ConsoleBarcode.AssemblyInfo.cs
+D:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\ConsoleBarcode\obj\Debug\net8.0\ConsoleBarcode.csproj.CoreCompileInputs.cache
+D:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\ConsoleBarcode\obj\Debug\net8.0\ConsoleBarcode.sourcelink.json
+D:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\ConsoleBarcode\bin\Debug\net8.0\ConsoleBarcode.exe
+d:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\ConsoleBarcode\bin\Debug\net8.0\ConsoleBarcode.deps.json
+d:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\ConsoleBarcode\bin\Debug\net8.0\ConsoleBarcode.runtimeconfig.json
+D:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\ConsoleBarcode\bin\Debug\net8.0\ConsoleBarcode.dll
+D:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\ConsoleBarcode\bin\Debug\net8.0\ConsoleBarcode.pdb
+D:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\ConsoleBarcode\bin\Debug\net8.0\BarcodeLib.dll
+D:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\ConsoleBarcode\bin\Debug\net8.0\ShowcaseLib.dll
+D:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\ConsoleBarcode\bin\Debug\net8.0\SoundDeviceLib.dll
+D:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\ConsoleBarcode\bin\Debug\net8.0\BarcodeLib.pdb
+D:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\ConsoleBarcode\bin\Debug\net8.0\ShowcaseLib.pdb
+D:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\ConsoleBarcode\bin\Debug\net8.0\SoundDeviceLib.pdb
+d:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\ConsoleBarcode\obj\Debug\net8.0\ConsoleBarcode.csproj.CopyComplete
+D:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\ConsoleBarcode\obj\Debug\net8.0\ConsoleBarcode.dll
+D:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\ConsoleBarcode\obj\Debug\net8.0\refint\ConsoleBarcode.dll
+D:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\ConsoleBarcode\obj\Debug\net8.0\ConsoleBarcode.pdb
+d:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\ConsoleBarcode\obj\Debug\net8.0\ConsoleBarcode.genruntimeconfig.cache
+d:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\ConsoleBarcode\obj\Debug\net8.0\ref\ConsoleBarcode.dll

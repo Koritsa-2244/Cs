@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleBarcode/1.0.0": {
+        "dependencies": {
+          "BarcodeLib": "1.0.0",
+          "ShowcaseLib": "1.0.0",
+          "SoundDeviceLib": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleBarcode.dll": {}
+        }
+      },
+      "BarcodeLib/1.0.0": {
+        "runtime": {
+          "BarcodeLib.dll": {}
+        }
+      },
+      "ShowcaseLib/1.0.0": {
+        "dependencies": {
+          "BarcodeLib": "1.0.0",
+          "SoundDeviceLib": "1.0.0"
+        },
+        "runtime": {
+          "ShowcaseLib.dll": {}
+        }
+      },
+      "SoundDeviceLib/1.0.0": {
+        "dependencies": {
+          "BarcodeLib": "1.0.0"
+        },
+        "runtime": {
+          "SoundDeviceLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleBarcode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BarcodeLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShowcaseLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SoundDeviceLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
