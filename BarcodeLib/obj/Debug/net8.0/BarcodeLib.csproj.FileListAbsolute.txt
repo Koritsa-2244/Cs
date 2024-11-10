@@ -1,0 +1,22 @@
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\BarcodeLib\bin\Debug\net8.0\BarcodeLib.deps.json
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\BarcodeLib\bin\Debug\net8.0\BarcodeLib.dll
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\BarcodeLib\bin\Debug\net8.0\BarcodeLib.pdb
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\BarcodeLib\obj\Debug\net8.0\BarcodeLib.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\BarcodeLib\obj\Debug\net8.0\BarcodeLib.AssemblyInfoInputs.cache
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\BarcodeLib\obj\Debug\net8.0\BarcodeLib.AssemblyInfo.cs
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\BarcodeLib\obj\Debug\net8.0\BarcodeLib.csproj.CoreCompileInputs.cache
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\BarcodeLib\obj\Debug\net8.0\BarcodeLib.dll
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\BarcodeLib\obj\Debug\net8.0\refint\BarcodeLib.dll
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\BarcodeLib\obj\Debug\net8.0\BarcodeLib.pdb
+d:\Users\Hp\Desktop\лабы\3.5\C#\Новая папка\BarcodeLib\obj\Debug\net8.0\ref\BarcodeLib.dll
+d:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\BarcodeLib\bin\Debug\net8.0\BarcodeLib.deps.json
+d:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\BarcodeLib\bin\Debug\net8.0\BarcodeLib.dll
+d:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\BarcodeLib\bin\Debug\net8.0\BarcodeLib.pdb
+d:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\BarcodeLib\obj\Debug\net8.0\BarcodeLib.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\BarcodeLib\obj\Debug\net8.0\BarcodeLib.AssemblyInfoInputs.cache
+d:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\BarcodeLib\obj\Debug\net8.0\BarcodeLib.AssemblyInfo.cs
+d:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\BarcodeLib\obj\Debug\net8.0\BarcodeLib.csproj.CoreCompileInputs.cache
+d:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\BarcodeLib\obj\Debug\net8.0\BarcodeLib.dll
+d:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\BarcodeLib\obj\Debug\net8.0\refint\BarcodeLib.dll
+d:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\BarcodeLib\obj\Debug\net8.0\BarcodeLib.pdb
+d:\Users\Hp\Desktop\лабы\3.5\C#\ЛР1\BarcodeLib\obj\Debug\net8.0\ref\BarcodeLib.dll
